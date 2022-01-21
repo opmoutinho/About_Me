@@ -2,27 +2,27 @@
 
 ## Programming
 
-### C#
-### JavaScript
+### - C#
+### - JavaScript
 
 ## Game Engines
 
-### Unity
-### GameMaker Studio
+### - Unity
+### - GameMaker Studio
 
 ## Industry
 
-### Game History
-### Game Industry Workflow
-### New Media StoryTelling
+### - Game History
+### - Game Industry Workflow
+### - New Media StoryTelling
 
 ## Arts
 
-### 2D Drawing and Animation
-### 3D Modelation and Creation
+### - 2D Drawing and Animation
+### - 3D Modelation and Creation
 
 ## Design
 
-### Game Design
-### Level Design
-### Character Design
+### - Game Design
+### - Level Design
+### - Character Design
